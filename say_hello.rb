@@ -4,6 +4,6 @@ end
 def say_hello
   puts "Hello Ruby Programmer!"
 end
-def say_hello("kent beck")
+def kent beck
   puts "Hello Ruby Programmer!"
 end
