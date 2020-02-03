@@ -7,6 +7,6 @@ end
 def say_hello
   puts "Hello Ruby Programmer!"
 end
-def say_hello(name="Ruby Programmer", language="Ruby")
-  puts "Hello, #{Ruby Programmer}. We heard you are a great #{Ruby} programmer."
+def say_hello(name="Gabriela", language="Ruby")
+  puts "Hello, #{Gabriela}. We heard you are a great #{Ruby} programmer."
 end
