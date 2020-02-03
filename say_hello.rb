@@ -7,5 +7,7 @@ end
   puts "Hello #{name}!"
 end 
 
-say_hello()
+def say_hello("Ruby Programmer")
+end
+end
  
