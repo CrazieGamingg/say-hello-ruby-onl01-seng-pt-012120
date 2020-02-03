@@ -2,7 +2,7 @@
 def say_hello("Gabriela")
   puts "Hello Gabriela!"
 end
-def say_hello
+def say_hello("Gabriela")
   puts "Hello Gabriela!"
 end
 
