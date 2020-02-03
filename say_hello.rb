@@ -8,4 +8,5 @@ def say_hello
   puts "Hello Ruby Programmer!"
 end
 def say_hello(name="Ruby Programmer", language="Ruby")
-  puts 
+  puts "Hello, #{name}. We heard you are a great #{language} programmer."
+end
