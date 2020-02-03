@@ -1,7 +1,3 @@
 # Build your say_hello method here
-def say_hello(Ruby Programmer)
-  puts "Hello, #{Ruby Programmer}"
-end
-def say_hello
-  puts "Hello "
-end
+say_hello("Gabriela")
+Hello Gabriela!
