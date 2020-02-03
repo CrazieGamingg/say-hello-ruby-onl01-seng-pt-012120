@@ -7,4 +7,4 @@ end
 def say_hello
   puts "Hello Ruby Programmer!"
 end
-def say_hello(name="Ruby Programmer, language=Ruby")
+def say_hello(name="Ruby Programmer, language="Ruby")
